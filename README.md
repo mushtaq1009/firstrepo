@@ -1,6 +1,6 @@
 # firstrepo
-my first repository on GIT
+###my first repository on GIT
 
 
 
-adding more matter to fix the found issue!!!
+*adding more matter to fix the found issue!!!
